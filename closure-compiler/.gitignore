@@ -1,0 +1,16 @@
+build/
+.vscode/
+dependency-reduced-pom.xml
+TESTS-TestSuites.xml
+junit*.properties
+target/
+*~
+.checkstyle
+.settings
+.classpath
+.project
+/bin
+/yarn.lock
+/node_modules
+*.iml
+.idea/
