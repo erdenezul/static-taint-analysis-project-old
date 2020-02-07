@@ -16,7 +16,7 @@
 ## How to run
 
 ```shell
-java -jar target/closure-compiler-1.0-SNAPSHOT.jar ../benchmark/test_3/three.js
+java -jar closure-compiler-1.0-SNAPSHOT.jar benchmark/test_1/one.js
 ```
 
 ## Output
